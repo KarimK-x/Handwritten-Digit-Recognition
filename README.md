@@ -11,8 +11,8 @@
   - Numpy
   - Matplotlib.pyplot
 ## Project Structure
-Very simply two files:
-  - **mainNotebook:** Jupyter notebook implementing the nn as well as displaying different functions using matplotlib.pyplot
+Very simply three files:
+  - **mainNotebook:** Jupyter notebook implementing the nn as well as displaying different plots using matplotlib.pyplot
   - **main.py:** python file containing functions used in the notebook
   - **data:** contains dataset in a .npy file
 
